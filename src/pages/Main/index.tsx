@@ -1,8 +1,6 @@
 import React from 'react';
 
 import logoImage from '../../assets/logo.png';
-import natureImage from '../../assets/nature.png';
-import dailyImage from '../../assets/daily.png';
 
 import {
   Button,
